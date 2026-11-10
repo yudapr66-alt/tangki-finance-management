@@ -23,6 +23,7 @@ Buat Pages project dari repository ini:
 - Build command: kosong / none
 - Build output directory: `public`
 - Root directory: repository root
+- Static output includes `public/_routes.json`, so the Pages Function is invoked only for `/api/*` paths; ordinary static assets remain static.
 
 Pada Pages project settings, tambahkan environment variable:
 
