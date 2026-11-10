@@ -1,3 +1,2 @@
-# Isi hanya setelah Apps Script doPost tersedia dan diuji.
-# Jangan commit URL deployment yang belum final.
-# APPS_SCRIPT_URL=https://script.google.com/macros/s/DEPLOYMENT_ID/exec
+# Local Pages development variable. Use the deployed Google Apps Script Web App URL.
+APPS_SCRIPT_URL=https://script.google.com/macros/s/DEPLOYMENT_ID/exec
